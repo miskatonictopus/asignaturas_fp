@@ -852,5 +852,92 @@
       ]
     }
   ]
+    {
+  "id": "0490",
+  "nombre": "Programación de servicios y procesos",
+  "creditos": "5",
+  "descripcion": {
+    "duracion": "99h",
+    "centro": "66h",
+    "empresa": "33h"
+  },
+  "RA": [
+    {
+      "codigo": "RA1",
+      "descripcion": "Desarrolla aplicaciones compuestas por varios procesos, reconociendo y aplicando principios de programación paralela.",
+      "CE": [
+        { "codigo": "CE1.1", "descripcion": "Reconoce las características de la programación concurrente y sus ámbitos de aplicación." },
+        { "codigo": "CE1.2", "descripcion": "Identifica las diferencias entre programación paralela y programación distribuida, sus ventajas e inconvenientes." },
+        { "codigo": "CE1.3", "descripcion": "Analiza las características de los procesos y su ejecución por parte del sistema operativo." },
+        { "codigo": "CE1.4", "descripcion": "Caracteriza los hilos de ejecución y describe su relación con los procesos." },
+        { "codigo": "CE1.5", "descripcion": "Utiliza clases para programar aplicaciones que crean subprocesos." },
+        { "codigo": "CE1.6", "descripcion": "Utiliza mecanismos para compartir información con los subprocesos iniciados." },
+        { "codigo": "CE1.7", "descripcion": "Utiliza mecanismos para sincronizar y obtener el valor retornado por los subprocesos iniciados." },
+        { "codigo": "CE1.8", "descripcion": "Desarrolla aplicaciones que gestionan y utilizan procesos para ejecutar diversas tareas en paralelo." },
+        { "codigo": "CE1.9", "descripcion": "Depura y documenta las aplicaciones desarrolladas." }
+      ]
+    },
+    {
+      "codigo": "RA2",
+      "descripcion": "Desarrolla aplicaciones compuestas por varios hilos de ejecución, analizando y aplicando librerías específicas del lenguaje de programación.",
+      "CE": [
+        { "codigo": "CE2.1", "descripcion": "Identifica situaciones en las que es útil el uso de varios hilos en un programa." },
+        { "codigo": "CE2.2", "descripcion": "Reconoce los mecanismos para crear, iniciar y finalizar hilos." },
+        { "codigo": "CE2.3", "descripcion": "Programa aplicaciones que implementan varios hilos." },
+        { "codigo": "CE2.4", "descripcion": "Identifica los posibles estados de ejecución de un hilo y programa aplicaciones que los gestionan." },
+        { "codigo": "CE2.5", "descripcion": "Utiliza mecanismos para compartir información entre varios hilos de un mismo proceso." },
+        { "codigo": "CE2.6", "descripcion": "Desarrolla programas formados por varios hilos sincronizados mediante técnicas específicas." },
+        { "codigo": "CE2.7", "descripcion": "Establece y controla la prioridad de cada uno de los hilos de ejecución." },
+        { "codigo": "CE2.8", "descripcion": "Depura y documenta los programas desarrollados." },
+        { "codigo": "CE2.9", "descripcion": "Analiza el contexto de ejecución de los hilos." },
+        { "codigo": "CE2.10", "descripcion": "Analiza librerías específicas del lenguaje de programación que permiten la programación multihilo." },
+        { "codigo": "CE2.11", "descripcion": "Reconoce los problemas derivados de compartir información entre los hilos de un mismo proceso." }
+      ]
+    },
+    {
+      "codigo": "RA3",
+      "descripcion": "Programa mecanismos de comunicación en red usando sockets y analizando el escenario de ejecución.",
+      "CE": [
+        { "codigo": "CE3.1", "descripcion": "Identifica escenarios que necesitan establecer comunicación en red entre varias aplicaciones." },
+        { "codigo": "CE3.2", "descripcion": "Identifica los roles de cliente y servidor y sus funciones asociadas." },
+        { "codigo": "CE3.3", "descripcion": "Reconoce librerías y mecanismos del lenguaje de programación que permiten programar aplicaciones en red." },
+        { "codigo": "CE3.4", "descripcion": "Analiza el concepto de socket, sus tipos y características." },
+        { "codigo": "CE3.5", "descripcion": "Utiliza sockets para programar una aplicación cliente que se comunique con un servidor." },
+        { "codigo": "CE3.6", "descripcion": "Desarrolla una aplicación servidor en red y verifica su funcionamiento." },
+        { "codigo": "CE3.7", "descripcion": "Desarrolla aplicaciones que utilizan sockets para intercambiar información." },
+        { "codigo": "CE3.8", "descripcion": "Utiliza hilos para permitir la comunicación simultánea de varios clientes con el servidor." },
+        { "codigo": "CE3.9", "descripcion": "Caracteriza los modelos de comunicación más habituales en las arquitecturas de aplicaciones distribuidas." },
+        { "codigo": "CE3.10", "descripcion": "Depura y documenta las aplicaciones desarrolladas." }
+      ]
+    },
+    {
+      "codigo": "RA4",
+      "descripcion": "Desarrolla aplicaciones que ofrecen servicios en red, utilizando librerías de clases y aplicando criterios de eficiencia y disponibilidad.",
+      "CE": [
+        { "codigo": "CE4.1", "descripcion": "Identifica diferentes protocolos estándar de comunicación para la implementación de servicios en red." },
+        { "codigo": "CE4.2", "descripcion": "Reconoce las ventajas del uso de protocolos estándar para la comunicación entre aplicaciones y procesos." },
+        { "codigo": "CE4.3", "descripcion": "Analiza librerías que permiten implementar servicios en red utilizando protocolos estándar de comunicación." },
+        { "codigo": "CE4.4", "descripcion": "Desarrolla y prueba servicios de comunicación en red." },
+        { "codigo": "CE4.5", "descripcion": "Utiliza clientes de comunicación para verificar el funcionamiento de los servicios." },
+        { "codigo": "CE4.6", "descripcion": "Incorpora mecanismos que permiten la comunicación simultánea de varios clientes con el servicio." },
+        { "codigo": "CE4.7", "descripcion": "Verifica la disponibilidad del servicio." },
+        { "codigo": "CE4.8", "descripcion": "Depura y documenta las aplicaciones desarrolladas." }
+      ]
+    },
+    {
+      "codigo": "RA5",
+      "descripcion": "Protege las aplicaciones y los datos, definiendo y aplicando criterios de seguridad en el acceso, almacenamiento y transmisión de la información.",
+      "CE": [
+        { "codigo": "CE5.1", "descripcion": "Identifica y aplica principios y prácticas de programación segura." },
+        { "codigo": "CE5.2", "descripcion": "Analiza las principales técnicas y prácticas criptográficas." },
+        { "codigo": "CE5.3", "descripcion": "Define e implanta políticas de seguridad para limitar y controlar el acceso de los usuarios a las aplicaciones desarrolladas." },
+        { "codigo": "CE5.4", "descripcion": "Utiliza esquemas de seguridad basados en roles." },
+        { "codigo": "CE5.5", "descripcion": "Utiliza algoritmos criptográficos para proteger el acceso a la información almacenada." },
+        { "codigo": "CE5.6", "descripcion": "Identifica métodos para asegurar la información transmitida." },
+        { "codigo": "CE5.7", "descripcion": "Desarrolla aplicaciones que utilizan comunicaciones seguras para la transmisión de información." },
+        { "codigo": "CE5.8", "descripcion": "Depura y documenta las aplicaciones desarrolladas." }
+      ]
+    }
+  ]
 }
 ]
