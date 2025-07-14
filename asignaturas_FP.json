@@ -848,9 +848,12 @@
        {
     "codigo": "CE9.8",
     "descripcion": "Prueba, depura y documenta las aplicaciones generadas."
-  }
-],
-{
+      }
+        ]
+      }
+    ]
+  },
+  {
   "id": "0490",
   "nombre": "Programación de servicios y procesos",
   "creditos": "5",
