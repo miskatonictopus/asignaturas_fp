@@ -845,14 +845,12 @@
           "codigo": "CE9.7",
           "descripcion": "Analiza y utiliza librerías de código relacionadas con Big Data e inteligencia de negocio, para incorporar análisis e inteligencia de datos provenientes de repositorios."
         },
-        {
-          "codigo": "CE9.8",
-          "descripcion": "Prueba, depura y documenta las aplicaciones generadas."
-        }
-      ]
-    }
-  ]
-    {
+       {
+    "codigo": "CE9.8",
+    "descripcion": "Prueba, depura y documenta las aplicaciones generadas."
+  }
+],
+{
   "id": "0490",
   "nombre": "Programación de servicios y procesos",
   "creditos": "5",
@@ -940,4 +938,3 @@
     }
   ]
 }
-]
