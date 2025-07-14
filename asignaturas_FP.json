@@ -937,7 +937,7 @@
         { "codigo": "CE5.6", "descripcion": "Identifica métodos para asegurar la información transmitida." },
         { "codigo": "CE5.7", "descripcion": "Desarrolla aplicaciones que utilizan comunicaciones seguras para la transmisión de información." },
         { "codigo": "CE5.8", "descripcion": "Depura y documenta las aplicaciones desarrolladas." }
-     ]
+        ]
       }
     ]
   }
