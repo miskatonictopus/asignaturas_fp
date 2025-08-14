@@ -287,6 +287,311 @@
     ]
   },
   {
+    "id": "0488",
+    "nombre": "Desarrollo de interfaces",
+    "creditos": "10",
+    "descripcion": {
+      "duracion": "119h",
+      "centro": "66h",
+      "empresa": "53h"
+    },
+    "CE": [],
+    "RA": [
+      {
+        "codigo": "RA1",
+        "descripcion": "Genera interfaces gráficas de usuario mediante editores visuales, utilizando las funcionalidades del editor y adaptando el código generado.",
+        "CE": [
+          {
+            "codigo": "CE1.1",
+            "descripcion": "Analiza las herramientas y bibliotecas disponibles para la generación de interfaces gráficas."
+          },
+          {
+            "codigo": "CE1.2",
+            "descripcion": "Crea una interfaz gráfica utilizando las herramientas de un editor visual."
+          },
+          {
+            "codigo": "CE1.3",
+            "descripcion": "Utiliza las funciones del editor para ubicar los componentes de la interfaz."
+          },
+          {
+            "codigo": "CE1.4",
+            "descripcion": "Modifica las propiedades de los componentes para adecuarlas a las necesidades de la aplicación."
+          },
+          {
+            "codigo": "CE1.5",
+            "descripcion": "Analiza el código generado por el editor visual."
+          },
+          {
+            "codigo": "CE1.6",
+            "descripcion": "Modifica el código generado por el editor visual."
+          },
+          {
+            "codigo": "CE1.7",
+            "descripcion": "Asocia a los eventos las acciones correspondientes."
+          },
+          {
+            "codigo": "CE1.8",
+            "descripcion": "Desarrolla una aplicación que incluya la interfaz gráfica obtenida."
+          }
+        ]
+      },
+      {
+        "codigo": "RA2",
+        "descripcion": "Genera interfaces naturales de usuario utilizando herramientas visuales.",
+        "CE": [
+          {
+            "codigo": "CE2.1",
+            "descripcion": "Identifica las herramientas disponibles de aprendizaje automático relacionadas con las interfaces de usuario."
+          },
+          {
+            "codigo": "CE2.2",
+            "descripcion": "Crea una interfaz de usuario natural utilizando las herramientas disponibles."
+          },
+          {
+            "codigo": "CE2.3",
+            "descripcion": "Utiliza el reconocimiento de voz para implementar acciones en interfaces naturales de usuario."
+          },
+          {
+            "codigo": "CE2.4",
+            "descripcion": "Incorpora la detección del movimiento del cuerpo para implementar acciones en interfaces naturales de usuario."
+          },
+          {
+            "codigo": "CE2.5",
+            "descripcion": "Integra elementos de detección de partes del cuerpo para implementar acciones en interfaces naturales de usuario."
+          },
+          {
+            "codigo": "CE2.6",
+            "descripcion": "Integra la realidad aumentada en las interfaces de usuario."
+          }
+        ]
+      },
+      {
+        "codigo": "RA3",
+        "descripcion": "Crea componentes visuales valorando y empleando herramientas específicas.",
+        "CE": [
+          {
+            "codigo": "CE3.1",
+            "descripcion": "Identifica las herramientas para el diseño y prueba de componentes."
+          },
+          {
+            "codigo": "CE3.2",
+            "descripcion": "Crea componentes visuales."
+          },
+          {
+            "codigo": "CE3.3",
+            "descripcion": "Define sus métodos y propiedades asignando valores por defecto."
+          },
+          {
+            "codigo": "CE3.4",
+            "descripcion": "Determina los eventos a los que debe responder el componente y les asocia las acciones correspondientes."
+          },
+          {
+            "codigo": "CE3.5",
+            "descripcion": "Realiza pruebas unitarias sobre los componentes desarrollados."
+          },
+          {
+            "codigo": "CE3.6",
+            "descripcion": "Documenta los componentes creados."
+          },
+          {
+            "codigo": "CE3.7",
+            "descripcion": "Empaqueta componentes."
+          },
+          {
+            "codigo": "CE3.8",
+            "descripcion": "Programa aplicaciones cuya interfaz gráfica utiliza los componentes creados."
+          }
+        ]
+      },
+      {
+        "codigo": "RA4",
+        "descripcion": "Diseña interfaces gráficas identificando y aplicando criterios de usabilidad y accesibilidad.",
+        "CE": [
+          {
+            "codigo": "CE4.1",
+            "descripcion": "Identifica los principales estándares de usabilidad y accesibilidad."
+          },
+          {
+            "codigo": "CE4.2",
+            "descripcion": "Valora la importancia del uso de estándares para crear interfaces."
+          },
+          {
+            "codigo": "CE4.3",
+            "descripcion": "Crea diferentes tipos de menús cuya estructura y contenido siguen los estándares establecidos."
+          },
+          {
+            "codigo": "CE4.4",
+            "descripcion": "Distribuye las acciones en menús, barras de herramientas, botones de comando, entre otros, siguiendo un criterio coherente."
+          },
+          {
+            "codigo": "CE4.5",
+            "descripcion": "Distribuye adecuadamente los controles en la interfaz de usuario."
+          },
+          {
+            "codigo": "CE4.6",
+            "descripcion": "Utiliza el tipo de control más apropiado en cada caso."
+          },
+          {
+            "codigo": "CE4.7",
+            "descripcion": "Diseña el aspecto de la interfaz de usuario (colores y tipografías, entre otros) teniendo en cuenta su legibilidad."
+          },
+          {
+            "codigo": "CE4.8",
+            "descripcion": "Verifica que los mensajes generados por la aplicación son adecuados en extensión y claridad."
+          },
+          {
+            "codigo": "CE4.9",
+            "descripcion": "Realiza pruebas para evaluar la usabilidad y la accesibilidad de la aplicación."
+          }
+        ]
+      },
+      {
+        "codigo": "RA5",
+        "descripcion": "Crea informes evaluando y utilizando herramientas gráficas.",
+        "CE": [
+          {
+            "codigo": "CE5.1",
+            "descripcion": "Establece la estructura del informe."
+          },
+          {
+            "codigo": "CE5.2",
+            "descripcion": "Genera informes básicos a partir de diferentes fuentes de datos mediante asistentes."
+          },
+          {
+            "codigo": "CE5.3",
+            "descripcion": "Establece filtros sobre los valores que se presentan en los informes."
+          },
+          {
+            "codigo": "CE5.4",
+            "descripcion": "Incluye valores calculados, recuentos y totales."
+          },
+          {
+            "codigo": "CE5.5",
+            "descripcion": "Incluye gráficos generados a partir de los datos."
+          },
+          {
+            "codigo": "CE5.6",
+            "descripcion": "Utiliza herramientas para generar el código correspondiente a los informes de una aplicación."
+          },
+          {
+            "codigo": "CE5.7",
+            "descripcion": "Modifica el código correspondiente a los informes."
+          },
+          {
+            "codigo": "CE5.8",
+            "descripcion": "Desarrolla una aplicación que incluya informes incrustados."
+          }
+        ]
+      },
+      {
+        "codigo": "RA6",
+        "descripcion": "Documenta aplicaciones seleccionando y utilizando herramientas específicas.",
+        "CE": [
+          {
+            "codigo": "CE6.1",
+            "descripcion": "Identifica sistemas de generación de ayudas."
+          },
+          {
+            "codigo": "CE6.2",
+            "descripcion": "Genera ayudas en los formatos habituales."
+          },
+          {
+            "codigo": "CE6.3",
+            "descripcion": "Genera ayudas sensibles al contexto."
+          },
+          {
+            "codigo": "CE6.4",
+            "descripcion": "Documenta la estructura de la información persistente."
+          },
+          {
+            "codigo": "CE6.5",
+            "descripcion": "Crea el manual de usuario y la guía de referencia."
+          },
+          {
+            "codigo": "CE6.6",
+            "descripcion": "Confecciona los manuales de instalación, configuración y administración."
+          },
+          {
+            "codigo": "CE6.7",
+            "descripcion": "Crea tutoriales."
+          }
+        ]
+      },
+      {
+        "codigo": "RA7",
+        "descripcion": "Prepara aplicaciones para la distribución evaluando y utilizando herramientas específicas.",
+        "CE": [
+          {
+            "codigo": "CE7.1",
+            "descripcion": "Empaqueta los componentes que requiere la aplicación."
+          },
+          {
+            "codigo": "CE7.2",
+            "descripcion": "Personaliza el asistente de instalación."
+          },
+          {
+            "codigo": "CE7.3",
+            "descripcion": "Genera paquetes de instalación utilizando el entorno de desarrollo."
+          },
+          {
+            "codigo": "CE7.4",
+            "descripcion": "Genera paquetes de instalación utilizando herramientas externas."
+          },
+          {
+            "codigo": "CE7.5",
+            "descripcion": "Firma digitalmente las aplicaciones para su distribución."
+          },
+          {
+            "codigo": "CE7.6",
+            "descripcion": "Genera paquetes instalables en modo desatendido."
+          },
+          {
+            "codigo": "CE7.7",
+            "descripcion": "Prepara el paquete de instalación para que la aplicación pueda desinstalarse correctamente."
+          },
+          {
+            "codigo": "CE7.8",
+            "descripcion": "Prepara la aplicación para ser distribuida a través de diferentes canales de distribución."
+          }
+        ]
+      },
+      {
+        "codigo": "RA8",
+        "descripcion": "Evalúa el funcionamiento de aplicaciones diseñando y ejecutando pruebas.",
+        "CE": [
+          {
+            "codigo": "CE8.1",
+            "descripcion": "Establece una estrategia de pruebas."
+          },
+          {
+            "codigo": "CE8.2",
+            "descripcion": "Realiza pruebas de integración de los distintos elementos."
+          },
+          {
+            "codigo": "CE8.3",
+            "descripcion": "Realiza pruebas de regresión."
+          },
+          {
+            "codigo": "CE8.4",
+            "descripcion": "Realiza pruebas de volumen y estrés."
+          },
+          {
+            "codigo": "CE8.5",
+            "descripcion": "Realiza pruebas de seguridad."
+          },
+          {
+            "codigo": "CE8.6",
+            "descripcion": "Realiza pruebas de uso de recursos por parte de la aplicación."
+          },
+          {
+            "codigo": "CE8.7",
+            "descripcion": "Documenta la estrategia de pruebas y los resultados obtenidos."
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "0615",
     "nombre": "Diseño de interfaces web",
     "creditos": "10",
