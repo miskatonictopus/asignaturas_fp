@@ -287,6 +287,101 @@
     ]
   },
   {
+  "id": "1665",
+  "nombre": "Digitalización aplicada a los sectores productivos",
+  "creditos": "3",
+  "descripcion": {
+    "duracion": "33h",
+    "centro": "33h",
+    "empresa": "0h"
+  },
+  "CE": [],
+  "RA": [
+    {
+      "codigo": "RA1",
+      "descripcion": "Analiza el concepto de digitalización y su repercusión en los sectores productivos teniendo en cuenta la actividad de la empresa e identificando entornos IT (tecnología de la información) y OT (tecnología de operación) característicos.",
+      "CE": [
+        { "codigo": "CE1.1", "descripcion": "Describe en qué consiste el concepto de digitalización." },
+        { "codigo": "CE1.2", "descripcion": "Relaciona la implantación de la tecnología digital con la organización de las empresas." },
+        { "codigo": "CE1.3", "descripcion": "Establece las diferencias y similitudes entre los entornos IT y OT." },
+        { "codigo": "CE1.4", "descripcion": "Identifica los departamentos típicos de las empresas que pueden constituir entornos IT." },
+        { "codigo": "CE1.5", "descripcion": "Selecciona las tecnologías típicas de la digitalización en planta y en negocio." },
+        { "codigo": "CE1.6", "descripcion": "Analiza la importancia de la conexión entre entornos IT y OT." },
+        { "codigo": "CE1.7", "descripcion": "Analiza las ventajas de digitalizar una empresa industrial de extremo a extremo." }
+      ]
+    },
+    {
+      "codigo": "RA2",
+      "descripcion": "Caracteriza las tecnologías habilitadoras digitales necesarias para la adecuación/transformación de las empresas a entornos digitales describiendo sus características y aplicaciones.",
+      "CE": [
+        { "codigo": "CE2.1", "descripcion": "Identifica las principales tecnologías habilitadoras digitales." },
+        { "codigo": "CE2.2", "descripcion": "Relaciona las tecnologías habilitadoras digitales con el desarrollo de productos y servicios." },
+        { "codigo": "CE2.3", "descripcion": "Relaciona la importancia de las tecnologías habilitadoras digitales con la economía sostenible y eficiente." },
+        { "codigo": "CE2.4", "descripcion": "Identifica nuevos mercados generados por las tecnologías habilitadoras digitales." },
+        { "codigo": "CE2.5", "descripcion": "Analiza la implicación de las tecnologías habilitadoras digitales tanto en la parte de negocio como en la parte de planta." },
+        { "codigo": "CE2.6", "descripcion": "Identifica las mejoras producidas a causa de la implantación de las tecnologías habilitadoras en relación con los entornos IT y OT." },
+        { "codigo": "CE2.7", "descripcion": "Elabora un informe que relacione las tecnologías con sus características y áreas de aplicación." }
+      ]
+    },
+    {
+      "codigo": "RA3",
+      "descripcion": "Identifica sistemas basados en cloud/nube y su influencia en el desarrollo de los sistemas digitales.",
+      "CE": [
+        { "codigo": "CE3.1", "descripcion": "Identifica los diferentes niveles del cloud/nube." },
+        { "codigo": "CE3.2", "descripcion": "Identifica las principales funciones de la cloud/nube (procesamiento de datos, intercambio de información, ejecución de aplicaciones, entre otras)." },
+        { "codigo": "CE3.3", "descripcion": "Describe el concepto de edge computing y su relación con la cloud/nube." },
+        { "codigo": "CE3.4", "descripcion": "Define los conceptos de fog y mist y sus zonas de aplicación en el conjunto." },
+        { "codigo": "CE3.5", "descripcion": "Identifica las ventajas que proporciona la utilización del cloud/nube en los sistemas conectados." }
+      ]
+    },
+    {
+      "codigo": "RA4",
+      "descripcion": "Identifica aplicaciones de la inteligencia artificial en entornos del sector en el que está enmarcado el título, describiendo las mejoras implícitas en su implementación.",
+      "CE": [
+        { "codigo": "CE4.1", "descripcion": "Identifica la importancia de la inteligencia artificial en la automatización de procesos y su optimización." },
+        { "codigo": "CE4.2", "descripcion": "Relaciona la inteligencia artificial con la recogida masiva de datos (Big Data) y su tratamiento (análisis) con la rentabilidad de las empresas." },
+        { "codigo": "CE4.3", "descripcion": "Valora la importancia presente y futura de la inteligencia artificial." },
+        { "codigo": "CE4.4", "descripcion": "Identifica los sectores con implantación más relevante de inteligencia artificial." },
+        { "codigo": "CE4.5", "descripcion": "Identifica los lenguajes de programación en inteligencia artificial." },
+        { "codigo": "CE4.6", "descripcion": "Describe cómo influye la inteligencia artificial en el sector del título." }
+      ]
+    },
+    {
+      "codigo": "RA5",
+      "descripcion": "Evalúa la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema como globales.",
+      "CE": [
+        { "codigo": "CE5.1", "descripcion": "Establece la diferencia entre dato e información." },
+        { "codigo": "CE5.2", "descripcion": "Describe el ciclo de vida del dato." },
+        { "codigo": "CE5.3", "descripcion": "Identifica la relación entre Big Data, análisis de datos, machine/deep learning e inteligencia artificial." },
+        { "codigo": "CE5.4", "descripcion": "Describe las características que definen Big Data." },
+        { "codigo": "CE5.5", "descripcion": "Describe las etapas típicas de la ciencia de datos y su relación en el proceso." },
+        { "codigo": "CE5.6", "descripcion": "Describe los procedimientos de almacenamiento de datos en la cloud/nube." },
+        { "codigo": "CE5.7", "descripcion": "Describe la importancia del cloud computing." },
+        { "codigo": "CE5.8", "descripcion": "Identifica los principales objetivos de la ciencia de datos en las diferentes empresas." },
+        { "codigo": "CE5.9", "descripcion": "Valora la importancia de la seguridad y su regulación en relación con los datos." }
+      ]
+    },
+    {
+      "codigo": "RA6",
+      "descripcion": "Desarrolla un proyecto de transformación digital de una empresa de un sector relacionado con el título, teniendo en cuenta los cambios que se han de producir en función de los objetivos de la empresa.",
+      "CE": [
+        { "codigo": "CE6.1", "descripcion": "Identifica los objetivos estratégicos de la empresa." },
+        { "codigo": "CE6.2", "descripcion": "Identifica y alinea las áreas de producción/negocio y de comunicaciones." },
+        { "codigo": "CE6.3", "descripcion": "Identifica las áreas susceptibles de ser digitalizadas." },
+        { "codigo": "CE6.4", "descripcion": "Analiza el encaje de las áreas digitalizadas entre sí y con las que no lo están." },
+        { "codigo": "CE6.5", "descripcion": "Tiene en cuenta las necesidades presentes y futuras de la empresa." },
+        { "codigo": "CE6.6", "descripcion": "Relaciona cada una de las áreas con la implantación de las tecnologías." },
+        { "codigo": "CE6.7", "descripcion": "Analiza las posibles brechas de seguridad en cada una de las áreas." },
+        { "codigo": "CE6.8", "descripcion": "Define el tratamiento de los datos y su análisis." },
+        { "codigo": "CE6.9", "descripcion": "Tiene en cuenta la integración entre datos, aplicaciones y plataformas que los soportan, entre otras." },
+        { "codigo": "CE6.10", "descripcion": "Documenta los cambios realizados en función de la estrategia." },
+        { "codigo": "CE6.11", "descripcion": "Tiene en cuenta la idoneidad de los recursos humanos." }
+      ]
+    }
+  ]
+}
+  },
+  {
     "id": "0488",
     "nombre": "Desarrollo de interfaces",
     "creditos": "10",
