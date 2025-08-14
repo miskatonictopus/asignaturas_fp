@@ -287,99 +287,234 @@
     ]
   },
   {
-  "id": "1665",
-  "nombre": "Digitalización aplicada a los sectores productivos",
-  "creditos": "3",
-  "descripcion": {
-    "duracion": "33h",
-    "centro": "33h",
-    "empresa": "0h"
+    "id": "1665",
+    "nombre": "Digitalización aplicada a los sectores productivos",
+    "creditos": "3",
+    "descripcion": {
+      "duracion": "33h",
+      "centro": "33h",
+      "empresa": "0h"
+    },
+    "CE": [],
+    "RA": [
+      {
+        "codigo": "RA1",
+        "descripcion": "Analiza el concepto de digitalización y su repercusión en los sectores productivos teniendo en cuenta la actividad de la empresa e identificando entornos IT (tecnología de la información) y OT (tecnología de operación) característicos.",
+        "CE": [
+          {
+            "codigo": "CE1.1",
+            "descripcion": "Describe en qué consiste el concepto de digitalización."
+          },
+          {
+            "codigo": "CE1.2",
+            "descripcion": "Relaciona la implantación de la tecnología digital con la organización de las empresas."
+          },
+          {
+            "codigo": "CE1.3",
+            "descripcion": "Establece las diferencias y similitudes entre los entornos IT y OT."
+          },
+          {
+            "codigo": "CE1.4",
+            "descripcion": "Identifica los departamentos típicos de las empresas que pueden constituir entornos IT."
+          },
+          {
+            "codigo": "CE1.5",
+            "descripcion": "Selecciona las tecnologías típicas de la digitalización en planta y en negocio."
+          },
+          {
+            "codigo": "CE1.6",
+            "descripcion": "Analiza la importancia de la conexión entre entornos IT y OT."
+          },
+          {
+            "codigo": "CE1.7",
+            "descripcion": "Analiza las ventajas de digitalizar una empresa industrial de extremo a extremo."
+          }
+        ]
+      },
+      {
+        "codigo": "RA2",
+        "descripcion": "Caracteriza las tecnologías habilitadoras digitales necesarias para la adecuación/transformación de las empresas a entornos digitales describiendo sus características y aplicaciones.",
+        "CE": [
+          {
+            "codigo": "CE2.1",
+            "descripcion": "Identifica las principales tecnologías habilitadoras digitales."
+          },
+          {
+            "codigo": "CE2.2",
+            "descripcion": "Relaciona las tecnologías habilitadoras digitales con el desarrollo de productos y servicios."
+          },
+          {
+            "codigo": "CE2.3",
+            "descripcion": "Relaciona la importancia de las tecnologías habilitadoras digitales con la economía sostenible y eficiente."
+          },
+          {
+            "codigo": "CE2.4",
+            "descripcion": "Identifica nuevos mercados generados por las tecnologías habilitadoras digitales."
+          },
+          {
+            "codigo": "CE2.5",
+            "descripcion": "Analiza la implicación de las tecnologías habilitadoras digitales tanto en la parte de negocio como en la parte de planta."
+          },
+          {
+            "codigo": "CE2.6",
+            "descripcion": "Identifica las mejoras producidas a causa de la implantación de las tecnologías habilitadoras en relación con los entornos IT y OT."
+          },
+          {
+            "codigo": "CE2.7",
+            "descripcion": "Elabora un informe que relacione las tecnologías con sus características y áreas de aplicación."
+          }
+        ]
+      },
+      {
+        "codigo": "RA3",
+        "descripcion": "Identifica sistemas basados en cloud/nube y su influencia en el desarrollo de los sistemas digitales.",
+        "CE": [
+          {
+            "codigo": "CE3.1",
+            "descripcion": "Identifica los diferentes niveles del cloud/nube."
+          },
+          {
+            "codigo": "CE3.2",
+            "descripcion": "Identifica las principales funciones de la cloud/nube (procesamiento de datos, intercambio de información, ejecución de aplicaciones, entre otras)."
+          },
+          {
+            "codigo": "CE3.3",
+            "descripcion": "Describe el concepto de edge computing y su relación con la cloud/nube."
+          },
+          {
+            "codigo": "CE3.4",
+            "descripcion": "Define los conceptos de fog y mist y sus zonas de aplicación en el conjunto."
+          },
+          {
+            "codigo": "CE3.5",
+            "descripcion": "Identifica las ventajas que proporciona la utilización del cloud/nube en los sistemas conectados."
+          }
+        ]
+      },
+      {
+        "codigo": "RA4",
+        "descripcion": "Identifica aplicaciones de la inteligencia artificial en entornos del sector en el que está enmarcado el título, describiendo las mejoras implícitas en su implementación.",
+        "CE": [
+          {
+            "codigo": "CE4.1",
+            "descripcion": "Identifica la importancia de la inteligencia artificial en la automatización de procesos y su optimización."
+          },
+          {
+            "codigo": "CE4.2",
+            "descripcion": "Relaciona la inteligencia artificial con la recogida masiva de datos (Big Data) y su tratamiento (análisis) con la rentabilidad de las empresas."
+          },
+          {
+            "codigo": "CE4.3",
+            "descripcion": "Valora la importancia presente y futura de la inteligencia artificial."
+          },
+          {
+            "codigo": "CE4.4",
+            "descripcion": "Identifica los sectores con implantación más relevante de inteligencia artificial."
+          },
+          {
+            "codigo": "CE4.5",
+            "descripcion": "Identifica los lenguajes de programación en inteligencia artificial."
+          },
+          {
+            "codigo": "CE4.6",
+            "descripcion": "Describe cómo influye la inteligencia artificial en el sector del título."
+          }
+        ]
+      },
+      {
+        "codigo": "RA5",
+        "descripcion": "Evalúa la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema como globales.",
+        "CE": [
+          {
+            "codigo": "CE5.1",
+            "descripcion": "Establece la diferencia entre dato e información."
+          },
+          {
+            "codigo": "CE5.2",
+            "descripcion": "Describe el ciclo de vida del dato."
+          },
+          {
+            "codigo": "CE5.3",
+            "descripcion": "Identifica la relación entre Big Data, análisis de datos, machine/deep learning e inteligencia artificial."
+          },
+          {
+            "codigo": "CE5.4",
+            "descripcion": "Describe las características que definen Big Data."
+          },
+          {
+            "codigo": "CE5.5",
+            "descripcion": "Describe las etapas típicas de la ciencia de datos y su relación en el proceso."
+          },
+          {
+            "codigo": "CE5.6",
+            "descripcion": "Describe los procedimientos de almacenamiento de datos en la cloud/nube."
+          },
+          {
+            "codigo": "CE5.7",
+            "descripcion": "Describe la importancia del cloud computing."
+          },
+          {
+            "codigo": "CE5.8",
+            "descripcion": "Identifica los principales objetivos de la ciencia de datos en las diferentes empresas."
+          },
+          {
+            "codigo": "CE5.9",
+            "descripcion": "Valora la importancia de la seguridad y su regulación en relación con los datos."
+          }
+        ]
+      },
+      {
+        "codigo": "RA6",
+        "descripcion": "Desarrolla un proyecto de transformación digital de una empresa de un sector relacionado con el título, teniendo en cuenta los cambios que se han de producir en función de los objetivos de la empresa.",
+        "CE": [
+          {
+            "codigo": "CE6.1",
+            "descripcion": "Identifica los objetivos estratégicos de la empresa."
+          },
+          {
+            "codigo": "CE6.2",
+            "descripcion": "Identifica y alinea las áreas de producción/negocio y de comunicaciones."
+          },
+          {
+            "codigo": "CE6.3",
+            "descripcion": "Identifica las áreas susceptibles de ser digitalizadas."
+          },
+          {
+            "codigo": "CE6.4",
+            "descripcion": "Analiza el encaje de las áreas digitalizadas entre sí y con las que no lo están."
+          },
+          {
+            "codigo": "CE6.5",
+            "descripcion": "Tiene en cuenta las necesidades presentes y futuras de la empresa."
+          },
+          {
+            "codigo": "CE6.6",
+            "descripcion": "Relaciona cada una de las áreas con la implantación de las tecnologías."
+          },
+          {
+            "codigo": "CE6.7",
+            "descripcion": "Analiza las posibles brechas de seguridad en cada una de las áreas."
+          },
+          {
+            "codigo": "CE6.8",
+            "descripcion": "Define el tratamiento de los datos y su análisis."
+          },
+          {
+            "codigo": "CE6.9",
+            "descripcion": "Tiene en cuenta la integración entre datos, aplicaciones y plataformas que los soportan, entre otras."
+          },
+          {
+            "codigo": "CE6.10",
+            "descripcion": "Documenta los cambios realizados en función de la estrategia."
+          },
+          {
+            "codigo": "CE6.11",
+            "descripcion": "Tiene en cuenta la idoneidad de los recursos humanos."
+          }
+        ]
+      }
+    ]
   },
-  "CE": [],
-  "RA": [
-    {
-      "codigo": "RA1",
-      "descripcion": "Analiza el concepto de digitalización y su repercusión en los sectores productivos teniendo en cuenta la actividad de la empresa e identificando entornos IT (tecnología de la información) y OT (tecnología de operación) característicos.",
-      "CE": [
-        { "codigo": "CE1.1", "descripcion": "Describe en qué consiste el concepto de digitalización." },
-        { "codigo": "CE1.2", "descripcion": "Relaciona la implantación de la tecnología digital con la organización de las empresas." },
-        { "codigo": "CE1.3", "descripcion": "Establece las diferencias y similitudes entre los entornos IT y OT." },
-        { "codigo": "CE1.4", "descripcion": "Identifica los departamentos típicos de las empresas que pueden constituir entornos IT." },
-        { "codigo": "CE1.5", "descripcion": "Selecciona las tecnologías típicas de la digitalización en planta y en negocio." },
-        { "codigo": "CE1.6", "descripcion": "Analiza la importancia de la conexión entre entornos IT y OT." },
-        { "codigo": "CE1.7", "descripcion": "Analiza las ventajas de digitalizar una empresa industrial de extremo a extremo." }
-      ]
-    },
-    {
-      "codigo": "RA2",
-      "descripcion": "Caracteriza las tecnologías habilitadoras digitales necesarias para la adecuación/transformación de las empresas a entornos digitales describiendo sus características y aplicaciones.",
-      "CE": [
-        { "codigo": "CE2.1", "descripcion": "Identifica las principales tecnologías habilitadoras digitales." },
-        { "codigo": "CE2.2", "descripcion": "Relaciona las tecnologías habilitadoras digitales con el desarrollo de productos y servicios." },
-        { "codigo": "CE2.3", "descripcion": "Relaciona la importancia de las tecnologías habilitadoras digitales con la economía sostenible y eficiente." },
-        { "codigo": "CE2.4", "descripcion": "Identifica nuevos mercados generados por las tecnologías habilitadoras digitales." },
-        { "codigo": "CE2.5", "descripcion": "Analiza la implicación de las tecnologías habilitadoras digitales tanto en la parte de negocio como en la parte de planta." },
-        { "codigo": "CE2.6", "descripcion": "Identifica las mejoras producidas a causa de la implantación de las tecnologías habilitadoras en relación con los entornos IT y OT." },
-        { "codigo": "CE2.7", "descripcion": "Elabora un informe que relacione las tecnologías con sus características y áreas de aplicación." }
-      ]
-    },
-    {
-      "codigo": "RA3",
-      "descripcion": "Identifica sistemas basados en cloud/nube y su influencia en el desarrollo de los sistemas digitales.",
-      "CE": [
-        { "codigo": "CE3.1", "descripcion": "Identifica los diferentes niveles del cloud/nube." },
-        { "codigo": "CE3.2", "descripcion": "Identifica las principales funciones de la cloud/nube (procesamiento de datos, intercambio de información, ejecución de aplicaciones, entre otras)." },
-        { "codigo": "CE3.3", "descripcion": "Describe el concepto de edge computing y su relación con la cloud/nube." },
-        { "codigo": "CE3.4", "descripcion": "Define los conceptos de fog y mist y sus zonas de aplicación en el conjunto." },
-        { "codigo": "CE3.5", "descripcion": "Identifica las ventajas que proporciona la utilización del cloud/nube en los sistemas conectados." }
-      ]
-    },
-    {
-      "codigo": "RA4",
-      "descripcion": "Identifica aplicaciones de la inteligencia artificial en entornos del sector en el que está enmarcado el título, describiendo las mejoras implícitas en su implementación.",
-      "CE": [
-        { "codigo": "CE4.1", "descripcion": "Identifica la importancia de la inteligencia artificial en la automatización de procesos y su optimización." },
-        { "codigo": "CE4.2", "descripcion": "Relaciona la inteligencia artificial con la recogida masiva de datos (Big Data) y su tratamiento (análisis) con la rentabilidad de las empresas." },
-        { "codigo": "CE4.3", "descripcion": "Valora la importancia presente y futura de la inteligencia artificial." },
-        { "codigo": "CE4.4", "descripcion": "Identifica los sectores con implantación más relevante de inteligencia artificial." },
-        { "codigo": "CE4.5", "descripcion": "Identifica los lenguajes de programación en inteligencia artificial." },
-        { "codigo": "CE4.6", "descripcion": "Describe cómo influye la inteligencia artificial en el sector del título." }
-      ]
-    },
-    {
-      "codigo": "RA5",
-      "descripcion": "Evalúa la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema como globales.",
-      "CE": [
-        { "codigo": "CE5.1", "descripcion": "Establece la diferencia entre dato e información." },
-        { "codigo": "CE5.2", "descripcion": "Describe el ciclo de vida del dato." },
-        { "codigo": "CE5.3", "descripcion": "Identifica la relación entre Big Data, análisis de datos, machine/deep learning e inteligencia artificial." },
-        { "codigo": "CE5.4", "descripcion": "Describe las características que definen Big Data." },
-        { "codigo": "CE5.5", "descripcion": "Describe las etapas típicas de la ciencia de datos y su relación en el proceso." },
-        { "codigo": "CE5.6", "descripcion": "Describe los procedimientos de almacenamiento de datos en la cloud/nube." },
-        { "codigo": "CE5.7", "descripcion": "Describe la importancia del cloud computing." },
-        { "codigo": "CE5.8", "descripcion": "Identifica los principales objetivos de la ciencia de datos en las diferentes empresas." },
-        { "codigo": "CE5.9", "descripcion": "Valora la importancia de la seguridad y su regulación en relación con los datos." }
-      ]
-    },
-    {
-      "codigo": "RA6",
-      "descripcion": "Desarrolla un proyecto de transformación digital de una empresa de un sector relacionado con el título, teniendo en cuenta los cambios que se han de producir en función de los objetivos de la empresa.",
-      "CE": [
-        { "codigo": "CE6.1", "descripcion": "Identifica los objetivos estratégicos de la empresa." },
-        { "codigo": "CE6.2", "descripcion": "Identifica y alinea las áreas de producción/negocio y de comunicaciones." },
-        { "codigo": "CE6.3", "descripcion": "Identifica las áreas susceptibles de ser digitalizadas." },
-        { "codigo": "CE6.4", "descripcion": "Analiza el encaje de las áreas digitalizadas entre sí y con las que no lo están." },
-        { "codigo": "CE6.5", "descripcion": "Tiene en cuenta las necesidades presentes y futuras de la empresa." },
-        { "codigo": "CE6.6", "descripcion": "Relaciona cada una de las áreas con la implantación de las tecnologías." },
-        { "codigo": "CE6.7", "descripcion": "Analiza las posibles brechas de seguridad en cada una de las áreas." },
-        { "codigo": "CE6.8", "descripcion": "Define el tratamiento de los datos y su análisis." },
-        { "codigo": "CE6.9", "descripcion": "Tiene en cuenta la integración entre datos, aplicaciones y plataformas que los soportan, entre otras." },
-        { "codigo": "CE6.10", "descripcion": "Documenta los cambios realizados en función de la estrategia." },
-        { "codigo": "CE6.11", "descripcion": "Tiene en cuenta la idoneidad de los recursos humanos." }
-      ]
-    }
-  ]
-},
   {
     "id": "0488",
     "nombre": "Desarrollo de interfaces",
@@ -933,481 +1068,718 @@
         "codigo": "RA1",
         "descripcion": "Identifica necesidades del sector productivo, relacionándolas con proyectos tipo que las puedan satisfacer.",
         "CE": [
-          { "codigo": "CE1.1", "descripcion": "Clasifica las empresas del sector por características organizativas y por el tipo de producto o servicio que ofrecen." },
-          { "codigo": "CE1.2", "descripcion": "Caracteriza las empresas tipo indicando la estructura organizativa y las funciones de cada departamento." },
-          { "codigo": "CE1.3", "descripcion": "Identifica las necesidades más demandadas en las empresas." },
-          { "codigo": "CE1.4", "descripcion": "Valora las oportunidades de negocio previsibles en el sector." },
-          { "codigo": "CE1.5", "descripcion": "Identifica el tipo de proyecto requerido para dar respuesta a las demandas previstas." },
-          { "codigo": "CE1.6", "descripcion": "Determina las características específicas del proyecto según los requerimientos." },
-          { "codigo": "CE1.7", "descripcion": "Determina las obligaciones fiscales, laborales y de prevención de riesgos y sus condiciones de aplicación." },
-          { "codigo": "CE1.8", "descripcion": "Identifica posibles ayudas o subvenciones para la incorporación de nuevas tecnologías de producción o de servicio propuestas." },
-          { "codigo": "CE1.9", "descripcion": "Elabora el guion de trabajo que se debe seguir para la elaboración del proyecto." }
+          {
+            "codigo": "CE1.1",
+            "descripcion": "Clasifica las empresas del sector por características organizativas y por el tipo de producto o servicio que ofrecen."
+          },
+          {
+            "codigo": "CE1.2",
+            "descripcion": "Caracteriza las empresas tipo indicando la estructura organizativa y las funciones de cada departamento."
+          },
+          {
+            "codigo": "CE1.3",
+            "descripcion": "Identifica las necesidades más demandadas en las empresas."
+          },
+          {
+            "codigo": "CE1.4",
+            "descripcion": "Valora las oportunidades de negocio previsibles en el sector."
+          },
+          {
+            "codigo": "CE1.5",
+            "descripcion": "Identifica el tipo de proyecto requerido para dar respuesta a las demandas previstas."
+          },
+          {
+            "codigo": "CE1.6",
+            "descripcion": "Determina las características específicas del proyecto según los requerimientos."
+          },
+          {
+            "codigo": "CE1.7",
+            "descripcion": "Determina las obligaciones fiscales, laborales y de prevención de riesgos y sus condiciones de aplicación."
+          },
+          {
+            "codigo": "CE1.8",
+            "descripcion": "Identifica posibles ayudas o subvenciones para la incorporación de nuevas tecnologías de producción o de servicio propuestas."
+          },
+          {
+            "codigo": "CE1.9",
+            "descripcion": "Elabora el guion de trabajo que se debe seguir para la elaboración del proyecto."
+          }
         ]
       },
       {
         "codigo": "RA2",
         "descripcion": "Diseña proyectos relacionados con las competencias expresadas en el título, desarrollando explícitamente las fases que los componen.",
         "CE": [
-          { "codigo": "CE2.1", "descripcion": "Recopila información relativa a los aspectos que serán tratados en el proyecto." },
-          { "codigo": "CE2.2", "descripcion": "Realiza el estudio de viabilidad técnica del proyecto." },
-          { "codigo": "CE2.3", "descripcion": "Identifica las fases del proyecto especificando su contenido y los plazos de ejecución." },
-          { "codigo": "CE2.4", "descripcion": "Establece los objetivos que se pretenden conseguir identificando su alcance." },
-          { "codigo": "CE2.5", "descripcion": "Determina las actividades necesarias para el desarrollo del proyecto." },
-          { "codigo": "CE2.6", "descripcion": "Prevé los recursos materiales y personales necesarios para realizar el proyecto." },
-          { "codigo": "CE2.7", "descripcion": "Identifica las necesidades de financiación para la puesta en marcha del proyecto." },
-          { "codigo": "CE2.8", "descripcion": "Define y elabora la documentación necesaria para el diseño." },
-          { "codigo": "CE2.9", "descripcion": "Identifica los aspectos que deben controlarse para garantizar la calidad del proyecto." }
+          {
+            "codigo": "CE2.1",
+            "descripcion": "Recopila información relativa a los aspectos que serán tratados en el proyecto."
+          },
+          {
+            "codigo": "CE2.2",
+            "descripcion": "Realiza el estudio de viabilidad técnica del proyecto."
+          },
+          {
+            "codigo": "CE2.3",
+            "descripcion": "Identifica las fases del proyecto especificando su contenido y los plazos de ejecución."
+          },
+          {
+            "codigo": "CE2.4",
+            "descripcion": "Establece los objetivos que se pretenden conseguir identificando su alcance."
+          },
+          {
+            "codigo": "CE2.5",
+            "descripcion": "Determina las actividades necesarias para el desarrollo del proyecto."
+          },
+          {
+            "codigo": "CE2.6",
+            "descripcion": "Prevé los recursos materiales y personales necesarios para realizar el proyecto."
+          },
+          {
+            "codigo": "CE2.7",
+            "descripcion": "Identifica las necesidades de financiación para la puesta en marcha del proyecto."
+          },
+          {
+            "codigo": "CE2.8",
+            "descripcion": "Define y elabora la documentación necesaria para el diseño."
+          },
+          {
+            "codigo": "CE2.9",
+            "descripcion": "Identifica los aspectos que deben controlarse para garantizar la calidad del proyecto."
+          }
         ]
       },
       {
         "codigo": "RA3",
         "descripcion": "Planifica la ejecución del proyecto, determinando el plan de intervención y la documentación asociada.",
         "CE": [
-          { "codigo": "CE3.1", "descripcion": "Secuencia las tareas en función de las necesidades de implementación." },
-          { "codigo": "CE3.2", "descripcion": "Determina los recursos y la logística necesaria para cada tarea." },
-          { "codigo": "CE3.3", "descripcion": "Identifica las necesidades de permisos y autorizaciones para llevar a cabo las tareas." },
-          { "codigo": "CE3.4", "descripcion": "Determina los procedimientos para ejecutar las tareas." },
-          { "codigo": "CE3.5", "descripcion": "Identifica los riesgos inherentes a la ejecución del proyecto y define el plan de prevención de riesgos y los medios necesarios." },
-          { "codigo": "CE3.6", "descripcion": "Planifica la asignación de recursos materiales y humanos según los tiempos de ejecución." },
-          { "codigo": "CE3.7", "descripcion": "Realiza la valoración económica que da respuesta a las condiciones de la ejecución del proyecto." },
-          { "codigo": "CE3.8", "descripcion": "Define y elabora la documentación necesaria para ejecutar el proyecto." }
+          {
+            "codigo": "CE3.1",
+            "descripcion": "Secuencia las tareas en función de las necesidades de implementación."
+          },
+          {
+            "codigo": "CE3.2",
+            "descripcion": "Determina los recursos y la logística necesaria para cada tarea."
+          },
+          {
+            "codigo": "CE3.3",
+            "descripcion": "Identifica las necesidades de permisos y autorizaciones para llevar a cabo las tareas."
+          },
+          {
+            "codigo": "CE3.4",
+            "descripcion": "Determina los procedimientos para ejecutar las tareas."
+          },
+          {
+            "codigo": "CE3.5",
+            "descripcion": "Identifica los riesgos inherentes a la ejecución del proyecto y define el plan de prevención de riesgos y los medios necesarios."
+          },
+          {
+            "codigo": "CE3.6",
+            "descripcion": "Planifica la asignación de recursos materiales y humanos según los tiempos de ejecución."
+          },
+          {
+            "codigo": "CE3.7",
+            "descripcion": "Realiza la valoración económica que da respuesta a las condiciones de la ejecución del proyecto."
+          },
+          {
+            "codigo": "CE3.8",
+            "descripcion": "Define y elabora la documentación necesaria para ejecutar el proyecto."
+          }
         ]
       },
       {
         "codigo": "RA4",
         "descripcion": "Define los procedimientos para el seguimiento y el control en la ejecución del proyecto, justificando la selección de variables e instrumentos empleados.",
         "CE": [
-          { "codigo": "CE4.1", "descripcion": "Define el procedimiento de evaluación de las actividades o intervenciones realizadas durante la ejecución del proyecto." },
-          { "codigo": "CE4.2", "descripcion": "Define los indicadores de calidad para realizar la evaluación del proyecto." },
-          { "codigo": "CE4.3", "descripcion": "Define el procedimiento para el registro y la evaluación de las incidencias que puedan presentarse durante la ejecución del proyecto." },
-          { "codigo": "CE4.4", "descripcion": "Define el procedimiento para solucionar las incidencias registradas." },
-          { "codigo": "CE4.5", "descripcion": "Define el procedimiento para la gestión y el registro de los cambios en los recursos y en las tareas." },
-          { "codigo": "CE4.6", "descripcion": "Establece el procedimiento para la participación de los usuarios en la evaluación y elabora documentos específicos." },
-          { "codigo": "CE4.7", "descripcion": "Establece un sistema para garantizar el cumplimiento del pliego de condiciones del proyecto cuando este exista." }
+          {
+            "codigo": "CE4.1",
+            "descripcion": "Define el procedimiento de evaluación de las actividades o intervenciones realizadas durante la ejecución del proyecto."
+          },
+          {
+            "codigo": "CE4.2",
+            "descripcion": "Define los indicadores de calidad para realizar la evaluación del proyecto."
+          },
+          {
+            "codigo": "CE4.3",
+            "descripcion": "Define el procedimiento para el registro y la evaluación de las incidencias que puedan presentarse durante la ejecución del proyecto."
+          },
+          {
+            "codigo": "CE4.4",
+            "descripcion": "Define el procedimiento para solucionar las incidencias registradas."
+          },
+          {
+            "codigo": "CE4.5",
+            "descripcion": "Define el procedimiento para la gestión y el registro de los cambios en los recursos y en las tareas."
+          },
+          {
+            "codigo": "CE4.6",
+            "descripcion": "Establece el procedimiento para la participación de los usuarios en la evaluación y elabora documentos específicos."
+          },
+          {
+            "codigo": "CE4.7",
+            "descripcion": "Establece un sistema para garantizar el cumplimiento del pliego de condiciones del proyecto cuando este exista."
+          }
         ]
       }
     ]
   },
   {
-  "id": "0613",
-  "nombre": "Desarrollo web en entorno servidor",
-  "creditos": "13",
-  "descripcion": {
-    "duracion": "165h",
-    "centro": "99h",
-    "empresa": "66h"
-  },
-  "RA": [
-    {
-      "codigo": "RA1",
-      "descripcion": "Selecciona las arquitecturas y tecnologías de programación web en entorno servidor, analizando sus capacidades y características propias.",
-      "CE": [
-        {
-          "codigo": "CE1.1",
-          "descripcion": "Caracteriza y diferencia los modelos de ejecución de código en el servidor y en el cliente web."
-        },
-        {
-          "codigo": "CE1.2",
-          "descripcion": "Reconoce las ventajas que proporciona la generación dinámica de páginas."
-        },
-        {
-          "codigo": "CE1.3",
-          "descripcion": "Identifica los mecanismos de ejecución de código en los servidores web."
-        },
-        {
-          "codigo": "CE1.4",
-          "descripcion": "Reconoce las funcionalidades que aportan los servidores de aplicaciones y su integración con los servidores web."
-        },
-        {
-          "codigo": "CE1.5",
-          "descripcion": "Identifica y caracteriza los principales lenguajes y tecnologías relacionados con la programación web en entorno servidor."
-        },
-        {
-          "codigo": "CE1.6",
-          "descripcion": "Verifica los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación en entorno servidor."
-        },
-        {
-          "codigo": "CE1.7",
-          "descripcion": "Reconoce y evalúa las herramientas y frameworks de programación en entorno servidor."
-        }
-      ]
+    "id": "0613",
+    "nombre": "Desarrollo web en entorno servidor",
+    "creditos": "13",
+    "descripcion": {
+      "duracion": "165h",
+      "centro": "99h",
+      "empresa": "66h"
     },
-    {
-      "codigo": "RA2",
-      "descripcion": "Escribe sentencias ejecutables por un servidor web reconociendo y aplicando procedimientos de integración del código en lenguajes de marcas.",
-      "CE": [
-        {
-          "codigo": "CE2.1",
-          "descripcion": "Reconoce los mecanismos de generación de páginas web a partir de lenguajes de marcas con código embebido."
-        },
-        {
-          "codigo": "CE2.2",
-          "descripcion": "Identifica las principales tecnologías asociadas."
-        },
-        {
-          "codigo": "CE2.3",
-          "descripcion": "Utiliza etiquetas para la inclusión de código en el lenguaje de marcas."
-        },
-        {
-          "codigo": "CE2.4",
-          "descripcion": "Reconoce la sintaxis del lenguaje de programación que se debe utilizar."
-        },
-        {
-          "codigo": "CE2.5",
-          "descripcion": "Escribe sentencias simples y comprueba sus efectos en el documento resultante."
-        },
-        {
-          "codigo": "CE2.6",
-          "descripcion": "Utiliza directivas para modificar el comportamiento predeterminado."
-        },
-        {
-          "codigo": "CE2.7",
-          "descripcion": "Utiliza los distintos tipos de variables y operadores disponibles en el lenguaje."
-        },
-        {
-          "codigo": "CE2.8",
-          "descripcion": "Identifica los ámbitos de utilización de las variables."
-        },
-        {
-          "codigo": "CE2.9",
-          "descripcion": "Escribe bloques de sentencias embebidas en lenguajes de marcas, seleccionando y utilizando estructuras de programación."
-        }
-      ]
-    },
-    {
-      "codigo": "RA3",
-      "descripcion": "Utiliza estructuras de programación para el desarrollo de lógica de servidor.",
-      "CE": [
-        {
-          "codigo": "CE3.1",
-          "descripcion": "Utiliza mecanismos de decisión en la creación de bloques de sentencias."
-        },
-        {
-          "codigo": "CE3.2",
-          "descripcion": "Utiliza bucles y verifica su funcionamiento."
-        },
-        {
-          "codigo": "CE3.3",
-          "descripcion": "Utiliza matrices (arrays) para almacenar y recuperar conjuntos de datos."
-        },
-        {
-          "codigo": "CE3.4",
-          "descripcion": "Crea y utiliza funciones."
-        },
-        {
-          "codigo": "CE3.5",
-          "descripcion": "Utiliza formularios web para interactuar con el usuario del navegador web."
-        },
-        {
-          "codigo": "CE3.6",
-          "descripcion": "Emplea métodos para recuperar la información introducida en el formulario."
-        },
-        {
-          "codigo": "CE3.7",
-          "descripcion": "Añade comentarios al código."
-        }
-      ]
-    },
-    {
-      "codigo": "RA4",
-      "descripcion": "Desarrolla aplicaciones web embebidas en lenguajes de marcas analizando e incorporando funcionalidades según especificaciones.",
-      "CE": [
-        {
-          "codigo": "CE4.1",
-          "descripcion": "Identifica los mecanismos disponibles para el mantenimiento de la información relativa a un cliente web concreto y señala sus ventajas."
-        },
-        {
-          "codigo": "CE4.2",
-          "descripcion": "Utiliza mecanismos para mantener el estado de las aplicaciones web."
-        },
-        {
-          "codigo": "CE4.3",
-          "descripcion": "Utiliza mecanismos para almacenar información en el cliente web y recuperar su contenido."
-        },
-        {
-          "codigo": "CE4.4",
-          "descripcion": "Identifica y caracteriza los mecanismos disponibles para la autenticación de usuarios."
-        },
-        {
-          "codigo": "CE4.5",
-          "descripcion": "Escribe aplicaciones que integren mecanismos de autenticación de usuarios."
-        },
-        {
-          "codigo": "CE4.6",
-          "descripcion": "Utiliza herramientas y entornos para facilitar la programación, prueba y depuración del código."
-        }
-      ]
-    },
-    {
-      "codigo": "RA5",
-      "descripcion": "Desarrolla aplicaciones web identificando y aplicando mecanismos para separar el código de presentación de la lógica de negocio.",
-      "CE": [
-        {
-          "codigo": "CE5.1",
-          "descripcion": "Identifica las ventajas de separar la lógica de negocio de los aspectos de presentación de la aplicación."
-        },
-        {
-          "codigo": "CE5.2",
-          "descripcion": "Analiza y utiliza mecanismos y frameworks que permiten realizar esta separación y sus principales características."
-        },
-        {
-          "codigo": "CE5.3",
-          "descripcion": "Utiliza objetos y controles en el servidor para generar el aspecto visual de la aplicación web en el cliente."
-        },
-        {
-          "codigo": "CE5.4",
-          "descripcion": "Utiliza formularios generados de forma dinámica para responder a los eventos de la aplicación web."
-        },
-        {
-          "codigo": "CE5.5",
-          "descripcion": "Identifica y aplica los parámetros relativos a la configuración de la aplicación web."
-        },
-        {
-          "codigo": "CE5.6",
-          "descripcion": "Escribe aplicaciones web con mantenimiento de estado y separación de la lógica de negocio."
-        },
-        {
-          "codigo": "CE5.7",
-          "descripcion": "Aplica los principios y patrones de diseño de la programación orientada a objetos."
-        },
-        {
-          "codigo": "CE5.8",
-          "descripcion": "Prueba y documenta el código."
-        }
-      ]
-    },
-    {
-      "codigo": "RA6",
-      "descripcion": "Desarrolla aplicaciones web de acceso a almacenes de datos, aplicando medidas para mantener la seguridad y la integridad de la información.",
-      "CE": [
-        {
-          "codigo": "CE6.1",
-          "descripcion": "Analiza las tecnologías que permiten el acceso mediante programación a la información disponible en almacenes de datos."
-        },
-        {
-          "codigo": "CE6.2",
-          "descripcion": "Crea aplicaciones que establezcan conexiones con bases de datos."
-        },
-        {
-          "codigo": "CE6.3",
-          "descripcion": "Recupera información almacenada en bases de datos."
-        },
-        {
-          "codigo": "CE6.4",
-          "descripcion": "Publica en aplicaciones web la información recuperada."
-        },
-        {
-          "codigo": "CE6.5",
-          "descripcion": "Utiliza conjuntos de datos para almacenar la información."
-        },
-        {
-          "codigo": "CE6.6",
-          "descripcion": "Crea aplicaciones web que permitan la actualización y eliminación de información disponible en una base de datos."
-        },
-        {
-          "codigo": "CE6.7",
-          "descripcion": "Prueba y documenta las aplicaciones web."
-        }
-      ]
-    },
-    {
-      "codigo": "RA7",
-      "descripcion": "Desarrolla servicios web reutilizables y accesibles mediante protocolos web, verificando su funcionamiento.",
-      "CE": [
-        {
-          "codigo": "CE7.1",
-          "descripcion": "Reconoce las características propias y el ámbito de aplicación de los servicios web."
-        },
-        {
-          "codigo": "CE7.2",
-          "descripcion": "Reconoce las ventajas de utilizar servicios web para proporcionar acceso a funcionalidades incorporadas en la lógica de negocio de una aplicación."
-        },
-        {
-          "codigo": "CE7.3",
-          "descripcion": "Identifica las tecnologías y los protocolos implicados en el consumo de servicios web."
-        },
-        {
-          "codigo": "CE7.4",
-          "descripcion": "Utiliza los estándares y arquitecturas más difundidos e implicados en el desarrollo de servicios web."
-        },
-        {
-          "codigo": "CE7.5",
-          "descripcion": "Programa un servicio web."
-        },
-        {
-          "codigo": "CE7.6",
-          "descripcion": "Verifica el funcionamiento del servicio web."
-        },
-        {
-          "codigo": "CE7.7",
-          "descripcion": "Consume el servicio web."
-        },
-        {
-          "codigo": "CE7.8",
-          "descripcion": "Documenta un servicio web."
-        }
-      ]
-    },
-    {
-      "codigo": "RA8",
-      "descripcion": "Genera páginas web dinámicas analizando y utilizando tecnologías y frameworks del servidor web que añaden código al lenguaje de marcas.",
-      "CE": [
-        {
-          "codigo": "CE8.1",
-          "descripcion": "Identifica las diferencias entre la ejecución de código en el servidor y en el cliente web."
-        },
-        {
-          "codigo": "CE8.2",
-          "descripcion": "Reconoce las ventajas de unir ambas tecnologías en el proceso de desarrollo de programas."
-        },
-        {
-          "codigo": "CE8.3",
-          "descripcion": "Identifica las tecnologías y los frameworks relacionados con la generación por parte del servidor de páginas web con scripts embebidos."
-        },
-        {
-          "codigo": "CE8.4",
-          "descripcion": "Utiliza estas tecnologías y frameworks para generar páginas web que incluyan interacción con el usuario."
-        },
-        {
-          "codigo": "CE8.5",
-          "descripcion": "Utiliza estas tecnologías y frameworks para generar páginas web que incluyan verificación de formularios."
-        },
-        {
-          "codigo": "CE8.6",
-          "descripcion": "Utiliza estas tecnologías y frameworks para generar páginas web que incluyan modificación dinámica de su contenido y su estructura."
-        },
-        {
-          "codigo": "CE8.7",
-          "descripcion": "Aplica estas tecnologías y frameworks en la programación de aplicaciones web."
-        }
-      ]
-    },
-    {
-      "codigo": "RA9",
-      "descripcion": "Desarrolla aplicaciones web híbridas seleccionando y utilizando tecnologías, frameworks de servidor y repositorios heterogéneos de información.",
-      "CE": [
-        {
-          "codigo": "CE9.1",
-          "descripcion": "Reconoce las ventajas que proporciona la reutilización de código y el aprovechamiento de información ya existente."
-        },
-        {
-          "codigo": "CE9.2",
-          "descripcion": "Identifica tecnologías y frameworks aplicables en la creación de aplicaciones web híbridas."
-        },
-        {
-          "codigo": "CE9.3",
-          "descripcion": "Crea una aplicación web que recupere y procese depósitos de información ya existentes."
-        },
-        {
-          "codigo": "CE9.4",
-          "descripcion": "Crea depósitos específicos a partir de información existente en almacenes de información."
-        },
-        {
-          "codigo": "CE9.5",
-          "descripcion": "Utiliza librerías de código y frameworks para incorporar funcionalidades específicas a una aplicación web."
-        },
-        {
-          "codigo": "CE9.6",
-          "descripcion": "Programa servicios y aplicaciones web utilizando como base información y código generados por terceros."
-        },
-        {
-          "codigo": "CE9.7",
-          "descripcion": "Analiza y utiliza librerías de código relacionadas con Big Data e inteligencia de negocio, para incorporar análisis e inteligencia de datos provenientes de repositorios."
-        },
-       {
-    "codigo": "CE9.8",
+    "RA": [
+      {
+        "codigo": "RA1",
+        "descripcion": "Selecciona las arquitecturas y tecnologías de programación web en entorno servidor, analizando sus capacidades y características propias.",
+        "CE": [
+          {
+            "codigo": "CE1.1",
+            "descripcion": "Caracteriza y diferencia los modelos de ejecución de código en el servidor y en el cliente web."
+          },
+          {
+            "codigo": "CE1.2",
+            "descripcion": "Reconoce las ventajas que proporciona la generación dinámica de páginas."
+          },
+          {
+            "codigo": "CE1.3",
+            "descripcion": "Identifica los mecanismos de ejecución de código en los servidores web."
+          },
+          {
+            "codigo": "CE1.4",
+            "descripcion": "Reconoce las funcionalidades que aportan los servidores de aplicaciones y su integración con los servidores web."
+          },
+          {
+            "codigo": "CE1.5",
+            "descripcion": "Identifica y caracteriza los principales lenguajes y tecnologías relacionados con la programación web en entorno servidor."
+          },
+          {
+            "codigo": "CE1.6",
+            "descripcion": "Verifica los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación en entorno servidor."
+          },
+          {
+            "codigo": "CE1.7",
+            "descripcion": "Reconoce y evalúa las herramientas y frameworks de programación en entorno servidor."
+          }
+        ]
+      },
+      {
+        "codigo": "RA2",
+        "descripcion": "Escribe sentencias ejecutables por un servidor web reconociendo y aplicando procedimientos de integración del código en lenguajes de marcas.",
+        "CE": [
+          {
+            "codigo": "CE2.1",
+            "descripcion": "Reconoce los mecanismos de generación de páginas web a partir de lenguajes de marcas con código embebido."
+          },
+          {
+            "codigo": "CE2.2",
+            "descripcion": "Identifica las principales tecnologías asociadas."
+          },
+          {
+            "codigo": "CE2.3",
+            "descripcion": "Utiliza etiquetas para la inclusión de código en el lenguaje de marcas."
+          },
+          {
+            "codigo": "CE2.4",
+            "descripcion": "Reconoce la sintaxis del lenguaje de programación que se debe utilizar."
+          },
+          {
+            "codigo": "CE2.5",
+            "descripcion": "Escribe sentencias simples y comprueba sus efectos en el documento resultante."
+          },
+          {
+            "codigo": "CE2.6",
+            "descripcion": "Utiliza directivas para modificar el comportamiento predeterminado."
+          },
+          {
+            "codigo": "CE2.7",
+            "descripcion": "Utiliza los distintos tipos de variables y operadores disponibles en el lenguaje."
+          },
+          {
+            "codigo": "CE2.8",
+            "descripcion": "Identifica los ámbitos de utilización de las variables."
+          },
+          {
+            "codigo": "CE2.9",
+            "descripcion": "Escribe bloques de sentencias embebidas en lenguajes de marcas, seleccionando y utilizando estructuras de programación."
+          }
+        ]
+      },
+      {
+        "codigo": "RA3",
+        "descripcion": "Utiliza estructuras de programación para el desarrollo de lógica de servidor.",
+        "CE": [
+          {
+            "codigo": "CE3.1",
+            "descripcion": "Utiliza mecanismos de decisión en la creación de bloques de sentencias."
+          },
+          {
+            "codigo": "CE3.2",
+            "descripcion": "Utiliza bucles y verifica su funcionamiento."
+          },
+          {
+            "codigo": "CE3.3",
+            "descripcion": "Utiliza matrices (arrays) para almacenar y recuperar conjuntos de datos."
+          },
+          {
+            "codigo": "CE3.4",
+            "descripcion": "Crea y utiliza funciones."
+          },
+          {
+            "codigo": "CE3.5",
+            "descripcion": "Utiliza formularios web para interactuar con el usuario del navegador web."
+          },
+          {
+            "codigo": "CE3.6",
+            "descripcion": "Emplea métodos para recuperar la información introducida en el formulario."
+          },
+          {
+            "codigo": "CE3.7",
+            "descripcion": "Añade comentarios al código."
+          }
+        ]
+      },
+      {
+        "codigo": "RA4",
+        "descripcion": "Desarrolla aplicaciones web embebidas en lenguajes de marcas analizando e incorporando funcionalidades según especificaciones.",
+        "CE": [
+          {
+            "codigo": "CE4.1",
+            "descripcion": "Identifica los mecanismos disponibles para el mantenimiento de la información relativa a un cliente web concreto y señala sus ventajas."
+          },
+          {
+            "codigo": "CE4.2",
+            "descripcion": "Utiliza mecanismos para mantener el estado de las aplicaciones web."
+          },
+          {
+            "codigo": "CE4.3",
+            "descripcion": "Utiliza mecanismos para almacenar información en el cliente web y recuperar su contenido."
+          },
+          {
+            "codigo": "CE4.4",
+            "descripcion": "Identifica y caracteriza los mecanismos disponibles para la autenticación de usuarios."
+          },
+          {
+            "codigo": "CE4.5",
+            "descripcion": "Escribe aplicaciones que integren mecanismos de autenticación de usuarios."
+          },
+          {
+            "codigo": "CE4.6",
+            "descripcion": "Utiliza herramientas y entornos para facilitar la programación, prueba y depuración del código."
+          }
+        ]
+      },
+      {
+        "codigo": "RA5",
+        "descripcion": "Desarrolla aplicaciones web identificando y aplicando mecanismos para separar el código de presentación de la lógica de negocio.",
+        "CE": [
+          {
+            "codigo": "CE5.1",
+            "descripcion": "Identifica las ventajas de separar la lógica de negocio de los aspectos de presentación de la aplicación."
+          },
+          {
+            "codigo": "CE5.2",
+            "descripcion": "Analiza y utiliza mecanismos y frameworks que permiten realizar esta separación y sus principales características."
+          },
+          {
+            "codigo": "CE5.3",
+            "descripcion": "Utiliza objetos y controles en el servidor para generar el aspecto visual de la aplicación web en el cliente."
+          },
+          {
+            "codigo": "CE5.4",
+            "descripcion": "Utiliza formularios generados de forma dinámica para responder a los eventos de la aplicación web."
+          },
+          {
+            "codigo": "CE5.5",
+            "descripcion": "Identifica y aplica los parámetros relativos a la configuración de la aplicación web."
+          },
+          {
+            "codigo": "CE5.6",
+            "descripcion": "Escribe aplicaciones web con mantenimiento de estado y separación de la lógica de negocio."
+          },
+          {
+            "codigo": "CE5.7",
+            "descripcion": "Aplica los principios y patrones de diseño de la programación orientada a objetos."
+          },
+          {
+            "codigo": "CE5.8",
+            "descripcion": "Prueba y documenta el código."
+          }
+        ]
+      },
+      {
+        "codigo": "RA6",
+        "descripcion": "Desarrolla aplicaciones web de acceso a almacenes de datos, aplicando medidas para mantener la seguridad y la integridad de la información.",
+        "CE": [
+          {
+            "codigo": "CE6.1",
+            "descripcion": "Analiza las tecnologías que permiten el acceso mediante programación a la información disponible en almacenes de datos."
+          },
+          {
+            "codigo": "CE6.2",
+            "descripcion": "Crea aplicaciones que establezcan conexiones con bases de datos."
+          },
+          {
+            "codigo": "CE6.3",
+            "descripcion": "Recupera información almacenada en bases de datos."
+          },
+          {
+            "codigo": "CE6.4",
+            "descripcion": "Publica en aplicaciones web la información recuperada."
+          },
+          {
+            "codigo": "CE6.5",
+            "descripcion": "Utiliza conjuntos de datos para almacenar la información."
+          },
+          {
+            "codigo": "CE6.6",
+            "descripcion": "Crea aplicaciones web que permitan la actualización y eliminación de información disponible en una base de datos."
+          },
+          {
+            "codigo": "CE6.7",
+            "descripcion": "Prueba y documenta las aplicaciones web."
+          }
+        ]
+      },
+      {
+        "codigo": "RA7",
+        "descripcion": "Desarrolla servicios web reutilizables y accesibles mediante protocolos web, verificando su funcionamiento.",
+        "CE": [
+          {
+            "codigo": "CE7.1",
+            "descripcion": "Reconoce las características propias y el ámbito de aplicación de los servicios web."
+          },
+          {
+            "codigo": "CE7.2",
+            "descripcion": "Reconoce las ventajas de utilizar servicios web para proporcionar acceso a funcionalidades incorporadas en la lógica de negocio de una aplicación."
+          },
+          {
+            "codigo": "CE7.3",
+            "descripcion": "Identifica las tecnologías y los protocolos implicados en el consumo de servicios web."
+          },
+          {
+            "codigo": "CE7.4",
+            "descripcion": "Utiliza los estándares y arquitecturas más difundidos e implicados en el desarrollo de servicios web."
+          },
+          {
+            "codigo": "CE7.5",
+            "descripcion": "Programa un servicio web."
+          },
+          {
+            "codigo": "CE7.6",
+            "descripcion": "Verifica el funcionamiento del servicio web."
+          },
+          {
+            "codigo": "CE7.7",
+            "descripcion": "Consume el servicio web."
+          },
+          {
+            "codigo": "CE7.8",
+            "descripcion": "Documenta un servicio web."
+          }
+        ]
+      },
+      {
+        "codigo": "RA8",
+        "descripcion": "Genera páginas web dinámicas analizando y utilizando tecnologías y frameworks del servidor web que añaden código al lenguaje de marcas.",
+        "CE": [
+          {
+            "codigo": "CE8.1",
+            "descripcion": "Identifica las diferencias entre la ejecución de código en el servidor y en el cliente web."
+          },
+          {
+            "codigo": "CE8.2",
+            "descripcion": "Reconoce las ventajas de unir ambas tecnologías en el proceso de desarrollo de programas."
+          },
+          {
+            "codigo": "CE8.3",
+            "descripcion": "Identifica las tecnologías y los frameworks relacionados con la generación por parte del servidor de páginas web con scripts embebidos."
+          },
+          {
+            "codigo": "CE8.4",
+            "descripcion": "Utiliza estas tecnologías y frameworks para generar páginas web que incluyan interacción con el usuario."
+          },
+          {
+            "codigo": "CE8.5",
+            "descripcion": "Utiliza estas tecnologías y frameworks para generar páginas web que incluyan verificación de formularios."
+          },
+          {
+            "codigo": "CE8.6",
+            "descripcion": "Utiliza estas tecnologías y frameworks para generar páginas web que incluyan modificación dinámica de su contenido y su estructura."
+          },
+          {
+            "codigo": "CE8.7",
+            "descripcion": "Aplica estas tecnologías y frameworks en la programación de aplicaciones web."
+          }
+        ]
+      },
+      {
+        "codigo": "RA9",
+        "descripcion": "Desarrolla aplicaciones web híbridas seleccionando y utilizando tecnologías, frameworks de servidor y repositorios heterogéneos de información.",
+        "CE": [
+          {
+            "codigo": "CE9.1",
+            "descripcion": "Reconoce las ventajas que proporciona la reutilización de código y el aprovechamiento de información ya existente."
+          },
+          {
+            "codigo": "CE9.2",
+            "descripcion": "Identifica tecnologías y frameworks aplicables en la creación de aplicaciones web híbridas."
+          },
+          {
+            "codigo": "CE9.3",
+            "descripcion": "Crea una aplicación web que recupere y procese depósitos de información ya existentes."
+          },
+          {
+            "codigo": "CE9.4",
+            "descripcion": "Crea depósitos específicos a partir de información existente en almacenes de información."
+          },
+          {
+            "codigo": "CE9.5",
+            "descripcion": "Utiliza librerías de código y frameworks para incorporar funcionalidades específicas a una aplicación web."
+          },
+          {
+            "codigo": "CE9.6",
+            "descripcion": "Programa servicios y aplicaciones web utilizando como base información y código generados por terceros."
+          },
+          {
+            "codigo": "CE9.7",
+            "descripcion": "Analiza y utiliza librerías de código relacionadas con Big Data e inteligencia de negocio, para incorporar análisis e inteligencia de datos provenientes de repositorios."
+          },
+          {
+            "codigo": "CE9.8",
             "descripcion": "Prueba, depura y documenta las aplicaciones generadas."
           }
         ]
       }
     ]
-  }, 
+  },
   {
     "id": "0490",
     "nombre": "Programación de servicios y procesos",
-  "creditos": "5",
-  "descripcion": {
-    "duracion": "99h",
-    "centro": "66h",
-    "empresa": "33h"
-  },
-  "RA": [
-    {
-      "codigo": "RA1",
-      "descripcion": "Desarrolla aplicaciones compuestas por varios procesos, reconociendo y aplicando principios de programación paralela.",
-      "CE": [
-        { "codigo": "CE1.1", "descripcion": "Reconoce las características de la programación concurrente y sus ámbitos de aplicación." },
-        { "codigo": "CE1.2", "descripcion": "Identifica las diferencias entre programación paralela y programación distribuida, sus ventajas e inconvenientes." },
-        { "codigo": "CE1.3", "descripcion": "Analiza las características de los procesos y su ejecución por parte del sistema operativo." },
-        { "codigo": "CE1.4", "descripcion": "Caracteriza los hilos de ejecución y describe su relación con los procesos." },
-        { "codigo": "CE1.5", "descripcion": "Utiliza clases para programar aplicaciones que crean subprocesos." },
-        { "codigo": "CE1.6", "descripcion": "Utiliza mecanismos para compartir información con los subprocesos iniciados." },
-        { "codigo": "CE1.7", "descripcion": "Utiliza mecanismos para sincronizar y obtener el valor retornado por los subprocesos iniciados." },
-        { "codigo": "CE1.8", "descripcion": "Desarrolla aplicaciones que gestionan y utilizan procesos para ejecutar diversas tareas en paralelo." },
-        { "codigo": "CE1.9", "descripcion": "Depura y documenta las aplicaciones desarrolladas." }
-      ]
+    "creditos": "5",
+    "descripcion": {
+      "duracion": "99h",
+      "centro": "66h",
+      "empresa": "33h"
     },
-    {
-      "codigo": "RA2",
-      "descripcion": "Desarrolla aplicaciones compuestas por varios hilos de ejecución, analizando y aplicando librerías específicas del lenguaje de programación.",
-      "CE": [
-        { "codigo": "CE2.1", "descripcion": "Identifica situaciones en las que es útil el uso de varios hilos en un programa." },
-        { "codigo": "CE2.2", "descripcion": "Reconoce los mecanismos para crear, iniciar y finalizar hilos." },
-        { "codigo": "CE2.3", "descripcion": "Programa aplicaciones que implementan varios hilos." },
-        { "codigo": "CE2.4", "descripcion": "Identifica los posibles estados de ejecución de un hilo y programa aplicaciones que los gestionan." },
-        { "codigo": "CE2.5", "descripcion": "Utiliza mecanismos para compartir información entre varios hilos de un mismo proceso." },
-        { "codigo": "CE2.6", "descripcion": "Desarrolla programas formados por varios hilos sincronizados mediante técnicas específicas." },
-        { "codigo": "CE2.7", "descripcion": "Establece y controla la prioridad de cada uno de los hilos de ejecución." },
-        { "codigo": "CE2.8", "descripcion": "Depura y documenta los programas desarrollados." },
-        { "codigo": "CE2.9", "descripcion": "Analiza el contexto de ejecución de los hilos." },
-        { "codigo": "CE2.10", "descripcion": "Analiza librerías específicas del lenguaje de programación que permiten la programación multihilo." },
-        { "codigo": "CE2.11", "descripcion": "Reconoce los problemas derivados de compartir información entre los hilos de un mismo proceso." }
-      ]
-    },
-    {
-      "codigo": "RA3",
-      "descripcion": "Programa mecanismos de comunicación en red usando sockets y analizando el escenario de ejecución.",
-      "CE": [
-        { "codigo": "CE3.1", "descripcion": "Identifica escenarios que necesitan establecer comunicación en red entre varias aplicaciones." },
-        { "codigo": "CE3.2", "descripcion": "Identifica los roles de cliente y servidor y sus funciones asociadas." },
-        { "codigo": "CE3.3", "descripcion": "Reconoce librerías y mecanismos del lenguaje de programación que permiten programar aplicaciones en red." },
-        { "codigo": "CE3.4", "descripcion": "Analiza el concepto de socket, sus tipos y características." },
-        { "codigo": "CE3.5", "descripcion": "Utiliza sockets para programar una aplicación cliente que se comunique con un servidor." },
-        { "codigo": "CE3.6", "descripcion": "Desarrolla una aplicación servidor en red y verifica su funcionamiento." },
-        { "codigo": "CE3.7", "descripcion": "Desarrolla aplicaciones que utilizan sockets para intercambiar información." },
-        { "codigo": "CE3.8", "descripcion": "Utiliza hilos para permitir la comunicación simultánea de varios clientes con el servidor." },
-        { "codigo": "CE3.9", "descripcion": "Caracteriza los modelos de comunicación más habituales en las arquitecturas de aplicaciones distribuidas." },
-        { "codigo": "CE3.10", "descripcion": "Depura y documenta las aplicaciones desarrolladas." }
-      ]
-    },
-    {
-      "codigo": "RA4",
-      "descripcion": "Desarrolla aplicaciones que ofrecen servicios en red, utilizando librerías de clases y aplicando criterios de eficiencia y disponibilidad.",
-      "CE": [
-        { "codigo": "CE4.1", "descripcion": "Identifica diferentes protocolos estándar de comunicación para la implementación de servicios en red." },
-        { "codigo": "CE4.2", "descripcion": "Reconoce las ventajas del uso de protocolos estándar para la comunicación entre aplicaciones y procesos." },
-        { "codigo": "CE4.3", "descripcion": "Analiza librerías que permiten implementar servicios en red utilizando protocolos estándar de comunicación." },
-        { "codigo": "CE4.4", "descripcion": "Desarrolla y prueba servicios de comunicación en red." },
-        { "codigo": "CE4.5", "descripcion": "Utiliza clientes de comunicación para verificar el funcionamiento de los servicios." },
-        { "codigo": "CE4.6", "descripcion": "Incorpora mecanismos que permiten la comunicación simultánea de varios clientes con el servicio." },
-        { "codigo": "CE4.7", "descripcion": "Verifica la disponibilidad del servicio." },
-        { "codigo": "CE4.8", "descripcion": "Depura y documenta las aplicaciones desarrolladas." }
-      ]
-    },
-    {
-      "codigo": "RA5",
-      "descripcion": "Protege las aplicaciones y los datos, definiendo y aplicando criterios de seguridad en el acceso, almacenamiento y transmisión de la información.",
-      "CE": [
-        { "codigo": "CE5.1", "descripcion": "Identifica y aplica principios y prácticas de programación segura." },
-        { "codigo": "CE5.2", "descripcion": "Analiza las principales técnicas y prácticas criptográficas." },
-        { "codigo": "CE5.3", "descripcion": "Define e implanta políticas de seguridad para limitar y controlar el acceso de los usuarios a las aplicaciones desarrolladas." },
-        { "codigo": "CE5.4", "descripcion": "Utiliza esquemas de seguridad basados en roles." },
-        { "codigo": "CE5.5", "descripcion": "Utiliza algoritmos criptográficos para proteger el acceso a la información almacenada." },
-        { "codigo": "CE5.6", "descripcion": "Identifica métodos para asegurar la información transmitida." },
-        { "codigo": "CE5.7", "descripcion": "Desarrolla aplicaciones que utilizan comunicaciones seguras para la transmisión de información." },
-        { "codigo": "CE5.8", "descripcion": "Depura y documenta las aplicaciones desarrolladas." }
-       ]
-    }
-  ]
-}
+    "RA": [
+      {
+        "codigo": "RA1",
+        "descripcion": "Desarrolla aplicaciones compuestas por varios procesos, reconociendo y aplicando principios de programación paralela.",
+        "CE": [
+          {
+            "codigo": "CE1.1",
+            "descripcion": "Reconoce las características de la programación concurrente y sus ámbitos de aplicación."
+          },
+          {
+            "codigo": "CE1.2",
+            "descripcion": "Identifica las diferencias entre programación paralela y programación distribuida, sus ventajas e inconvenientes."
+          },
+          {
+            "codigo": "CE1.3",
+            "descripcion": "Analiza las características de los procesos y su ejecución por parte del sistema operativo."
+          },
+          {
+            "codigo": "CE1.4",
+            "descripcion": "Caracteriza los hilos de ejecución y describe su relación con los procesos."
+          },
+          {
+            "codigo": "CE1.5",
+            "descripcion": "Utiliza clases para programar aplicaciones que crean subprocesos."
+          },
+          {
+            "codigo": "CE1.6",
+            "descripcion": "Utiliza mecanismos para compartir información con los subprocesos iniciados."
+          },
+          {
+            "codigo": "CE1.7",
+            "descripcion": "Utiliza mecanismos para sincronizar y obtener el valor retornado por los subprocesos iniciados."
+          },
+          {
+            "codigo": "CE1.8",
+            "descripcion": "Desarrolla aplicaciones que gestionan y utilizan procesos para ejecutar diversas tareas en paralelo."
+          },
+          {
+            "codigo": "CE1.9",
+            "descripcion": "Depura y documenta las aplicaciones desarrolladas."
+          }
+        ]
+      },
+      {
+        "codigo": "RA2",
+        "descripcion": "Desarrolla aplicaciones compuestas por varios hilos de ejecución, analizando y aplicando librerías específicas del lenguaje de programación.",
+        "CE": [
+          {
+            "codigo": "CE2.1",
+            "descripcion": "Identifica situaciones en las que es útil el uso de varios hilos en un programa."
+          },
+          {
+            "codigo": "CE2.2",
+            "descripcion": "Reconoce los mecanismos para crear, iniciar y finalizar hilos."
+          },
+          {
+            "codigo": "CE2.3",
+            "descripcion": "Programa aplicaciones que implementan varios hilos."
+          },
+          {
+            "codigo": "CE2.4",
+            "descripcion": "Identifica los posibles estados de ejecución de un hilo y programa aplicaciones que los gestionan."
+          },
+          {
+            "codigo": "CE2.5",
+            "descripcion": "Utiliza mecanismos para compartir información entre varios hilos de un mismo proceso."
+          },
+          {
+            "codigo": "CE2.6",
+            "descripcion": "Desarrolla programas formados por varios hilos sincronizados mediante técnicas específicas."
+          },
+          {
+            "codigo": "CE2.7",
+            "descripcion": "Establece y controla la prioridad de cada uno de los hilos de ejecución."
+          },
+          {
+            "codigo": "CE2.8",
+            "descripcion": "Depura y documenta los programas desarrollados."
+          },
+          {
+            "codigo": "CE2.9",
+            "descripcion": "Analiza el contexto de ejecución de los hilos."
+          },
+          {
+            "codigo": "CE2.10",
+            "descripcion": "Analiza librerías específicas del lenguaje de programación que permiten la programación multihilo."
+          },
+          {
+            "codigo": "CE2.11",
+            "descripcion": "Reconoce los problemas derivados de compartir información entre los hilos de un mismo proceso."
+          }
+        ]
+      },
+      {
+        "codigo": "RA3",
+        "descripcion": "Programa mecanismos de comunicación en red usando sockets y analizando el escenario de ejecución.",
+        "CE": [
+          {
+            "codigo": "CE3.1",
+            "descripcion": "Identifica escenarios que necesitan establecer comunicación en red entre varias aplicaciones."
+          },
+          {
+            "codigo": "CE3.2",
+            "descripcion": "Identifica los roles de cliente y servidor y sus funciones asociadas."
+          },
+          {
+            "codigo": "CE3.3",
+            "descripcion": "Reconoce librerías y mecanismos del lenguaje de programación que permiten programar aplicaciones en red."
+          },
+          {
+            "codigo": "CE3.4",
+            "descripcion": "Analiza el concepto de socket, sus tipos y características."
+          },
+          {
+            "codigo": "CE3.5",
+            "descripcion": "Utiliza sockets para programar una aplicación cliente que se comunique con un servidor."
+          },
+          {
+            "codigo": "CE3.6",
+            "descripcion": "Desarrolla una aplicación servidor en red y verifica su funcionamiento."
+          },
+          {
+            "codigo": "CE3.7",
+            "descripcion": "Desarrolla aplicaciones que utilizan sockets para intercambiar información."
+          },
+          {
+            "codigo": "CE3.8",
+            "descripcion": "Utiliza hilos para permitir la comunicación simultánea de varios clientes con el servidor."
+          },
+          {
+            "codigo": "CE3.9",
+            "descripcion": "Caracteriza los modelos de comunicación más habituales en las arquitecturas de aplicaciones distribuidas."
+          },
+          {
+            "codigo": "CE3.10",
+            "descripcion": "Depura y documenta las aplicaciones desarrolladas."
+          }
+        ]
+      },
+      {
+        "codigo": "RA4",
+        "descripcion": "Desarrolla aplicaciones que ofrecen servicios en red, utilizando librerías de clases y aplicando criterios de eficiencia y disponibilidad.",
+        "CE": [
+          {
+            "codigo": "CE4.1",
+            "descripcion": "Identifica diferentes protocolos estándar de comunicación para la implementación de servicios en red."
+          },
+          {
+            "codigo": "CE4.2",
+            "descripcion": "Reconoce las ventajas del uso de protocolos estándar para la comunicación entre aplicaciones y procesos."
+          },
+          {
+            "codigo": "CE4.3",
+            "descripcion": "Analiza librerías que permiten implementar servicios en red utilizando protocolos estándar de comunicación."
+          },
+          {
+            "codigo": "CE4.4",
+            "descripcion": "Desarrolla y prueba servicios de comunicación en red."
+          },
+          {
+            "codigo": "CE4.5",
+            "descripcion": "Utiliza clientes de comunicación para verificar el funcionamiento de los servicios."
+          },
+          {
+            "codigo": "CE4.6",
+            "descripcion": "Incorpora mecanismos que permiten la comunicación simultánea de varios clientes con el servicio."
+          },
+          {
+            "codigo": "CE4.7",
+            "descripcion": "Verifica la disponibilidad del servicio."
+          },
+          {
+            "codigo": "CE4.8",
+            "descripcion": "Depura y documenta las aplicaciones desarrolladas."
+          }
+        ]
+      },
+      {
+        "codigo": "RA5",
+        "descripcion": "Protege las aplicaciones y los datos, definiendo y aplicando criterios de seguridad en el acceso, almacenamiento y transmisión de la información.",
+        "CE": [
+          {
+            "codigo": "CE5.1",
+            "descripcion": "Identifica y aplica principios y prácticas de programación segura."
+          },
+          {
+            "codigo": "CE5.2",
+            "descripcion": "Analiza las principales técnicas y prácticas criptográficas."
+          },
+          {
+            "codigo": "CE5.3",
+            "descripcion": "Define e implanta políticas de seguridad para limitar y controlar el acceso de los usuarios a las aplicaciones desarrolladas."
+          },
+          {
+            "codigo": "CE5.4",
+            "descripcion": "Utiliza esquemas de seguridad basados en roles."
+          },
+          {
+            "codigo": "CE5.5",
+            "descripcion": "Utiliza algoritmos criptográficos para proteger el acceso a la información almacenada."
+          },
+          {
+            "codigo": "CE5.6",
+            "descripcion": "Identifica métodos para asegurar la información transmitida."
+          },
+          {
+            "codigo": "CE5.7",
+            "descripcion": "Desarrolla aplicaciones que utilizan comunicaciones seguras para la transmisión de información."
+          },
+          {
+            "codigo": "CE5.8",
+            "descripcion": "Depura y documenta las aplicaciones desarrolladas."
+          }
+        ]
+      }
+    ]
+  }
 ]
